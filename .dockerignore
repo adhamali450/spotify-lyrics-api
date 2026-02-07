@@ -1,15 +1,10 @@
-# Ignore unnecessary files for Docker build
 .git
 .gitignore
+.dockerignore
+.venv/
+__pycache__/
 *.md
-README.md
-docs/
 LICENSE
 FUNDING.yml
-Procfile
-vercel.json
-app.json
-vendor/
-Dockerfile
-.dockerignore
 .github/
+.vscode/

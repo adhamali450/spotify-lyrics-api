@@ -1,0 +1,2 @@
+class SpotifyException(Exception):
+    pass
